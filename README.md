@@ -128,8 +128,8 @@ You can also run the application using Docker:
 
 The assistant interacts with users to gather information about their party requirements. It then processes this information to provide relevant recommendations and can execute bookings on behalf of the user. The use of LangChain allows for flexible integration with various APIs and services, enabling dynamic and intelligent responses based on user inputs.
 
+---
+
 ## 📄 License
 
 This project is licensed under the **Apache License 2.0** - see the [LICENSE](LICENSE) file for details.
-
----
