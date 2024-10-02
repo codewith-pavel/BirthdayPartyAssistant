@@ -5,15 +5,15 @@ A smart assistant built using the LangChain framework to help users plan birthda
 ---
 
 ## 📑 Table of Contents
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [How It Works](#how-it-works)
-- [License](#license)
+- [Features](#f)
+- [Technologies Used](#t)
+- [Installation](#i)
+- [Usage](#u)
+- [How It Works](#h)
+- [License](#l)
 
 
-# 🛠️ <a name="features">Features</a>
+# 🛠️ <a name="f">Features </a>
 
 ### 💰 Budget Management
 - **Set and Track Budget**: Define your total budget for the party and monitor expenditures to stay within limits.
@@ -74,7 +74,7 @@ A smart assistant built using the LangChain framework to help users plan birthda
 
 ---
 
-# 🛠️ Technologies Used
+# 🛠️ <a name="t">Technologies Used </a>
 - **Python**: Programming language used for developing the assistant.
 - **LangChain**: Framework for building the AI assistant.
 - **Docker**: Used for containerizing the application.
@@ -82,7 +82,7 @@ A smart assistant built using the LangChain framework to help users plan birthda
 
 ---
 
-# 🛠️ Installation
+# 🛠️ <a name="i">Installation </a>
 
 ### 1. **Clone the Repository**
 ```bash
@@ -100,7 +100,7 @@ pip install -r requirements.txt
 
 ---
 
-# 🚀 Usage
+# 🚀 <a name="u">Usage </a>
 
 ### **Running the Assistant Locally**
 
@@ -125,12 +125,12 @@ You can also run the application using Docker:
 
 ---
 
-# 💡 How It Works
+# 💡 <a name="h">How It Works </a>
 
 The assistant interacts with users to gather information about their party requirements. It then processes this information to provide relevant recommendations and can execute bookings on behalf of the user. The use of LangChain allows for flexible integration with various APIs and services, enabling dynamic and intelligent responses based on user inputs.
 
 ---
 
-# 📄 License
+# 📄 <a name="l">License </a>
 
 This project is licensed under the **Apache License 2.0** - see the [LICENSE](LICENSE) file for details.
