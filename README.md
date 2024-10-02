@@ -92,4 +92,25 @@ A smart assistant built using the LangChain framework to help users plan birthda
     source env/bin/activate
     pip install -r requirements.txt
     ```
+### Usage
+
+To run the assistant, use the following command:
+
+```bash
+python birthday_party_assistant.py
+```
+You can also run the application using Docker:
+
+1. **Build the Docker Image**
+   
+   ```bash
+   docker build -t birthday-party-assistant .
+   ```
+
+2. **Run the Docker Container**
+
+   ```bash
+   docker run -it birthday-party-assistant
+   ```
+
   
