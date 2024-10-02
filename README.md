@@ -86,7 +86,7 @@ A smart assistant built using the LangChain framework to help users plan birthda
 
 ### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/birthday-party-assistant.git
+git clone https://github.com/codewith-pavel/BirthdayPartyAssistant
 cd birthday-party-assistant
 ```
 
