@@ -12,7 +12,7 @@ A smart assistant built using the LangChain framework to help users plan birthda
 
 ---
 
-# 🛠️ Features
+## 🛠️ Features
 
 ### 💰 Budget Management
 - **Set and Track Budget**: Define your total budget for the party and monitor expenditures to stay within limits.
