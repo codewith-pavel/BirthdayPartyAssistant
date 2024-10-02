@@ -112,12 +112,12 @@ python party_planning_assistant.py
 
 You can also run the application using Docker:
 
-1. **Build the Docker Image**
+### 1. **Build the Docker Image**
    ```bash
    docker build -t birthday-party-assistant .
    ```
 
-2. **Run the Docker Container**
+### 2. **Run the Docker Container**
    ```bash
    docker run -it birthday-party-assistant
    ```
