@@ -1,0 +1,39 @@
+2024-10-02 14:21:50,225 [INFO] Initialized default data for user '123'.
+2024-10-02 14:21:52,159 [INFO] LLM pipeline initialized successfully.
+2024-10-02 14:21:52,175 [INFO] LLMChain created successfully.
+2024-10-02 14:21:59,479 [INFO] Data saved successfully for user '123'.
+2024-10-02 14:21:59,479 [INFO] Budget set to $12.0.
+2024-10-02 14:22:03,205 [INFO] Recommendations generated based on budget $12.0.
+2024-10-02 14:22:16,275 [INFO] Booked caterer: jnina.
+2024-10-02 14:22:16,275 [INFO] Data saved successfully for user '123'.
+2024-10-02 14:22:35,679 [INFO] Data saved successfully for user '123'.
+2024-10-02 14:22:35,687 [INFO] Guest 'ghe' added.
+2024-10-02 14:22:44,979 [INFO] RSVPs retrieved.
+2024-10-02 14:22:56,277 [INFO] User preferences retrieved.
+2024-10-02 14:23:09,825 [INFO] Data saved successfully for user '123'.
+2024-10-02 14:23:09,825 [INFO] Preference '1' updated to '2'.
+2024-10-02 14:23:23,311 [INFO] Party plan exported successfully.
+2024-10-02 14:23:35,026 [WARNING] Photo 'gh' not found.
+2024-10-02 14:23:46,388 [INFO] Checklist retrieved.
+2024-10-02 14:23:53,535 [INFO] Adjusting the plan based on new details.
+2024-10-02 14:24:20,060 [INFO] Party plan generated successfully.
+2024-10-02 14:24:20,060 [INFO] Data saved successfully for user '123'.
+2024-10-02 14:27:05,089 [INFO] Data loaded successfully for user '123'.
+2024-10-02 14:27:07,451 [INFO] LLM pipeline initialized successfully.
+2024-10-02 14:27:07,459 [INFO] LLMChain created successfully.
+2024-10-02 14:31:30,621 [INFO] Initialized default data for user '1911580'.
+2024-10-02 14:31:32,561 [INFO] LLM pipeline initialized successfully.
+2024-10-02 14:31:32,569 [INFO] LLMChain created successfully.
+2024-10-02 14:31:39,674 [INFO] Data saved successfully for user '1911580'.
+2024-10-02 14:31:39,674 [INFO] Budget set to $20000.0.
+2024-10-02 14:31:42,230 [INFO] Recommendations generated based on budget $20000.0.
+2024-10-02 14:32:17,636 [INFO] User preferences retrieved.
+2024-10-02 14:58:13,608 [INFO] Initialized default data for user '123'.
+2024-10-02 14:58:15,568 [INFO] LLM pipeline initialized successfully.
+2024-10-02 14:58:15,579 [INFO] LLMChain created successfully.
+2024-10-02 15:09:57,935 [INFO] Initialized default data for user '12'.
+2024-10-02 15:10:00,435 [INFO] LLM pipeline initialized successfully.
+2024-10-02 15:10:00,512 [INFO] LLMChain created successfully.
+2024-10-02 15:18:12,561 [INFO] Initialized default data for user '123'.
+2024-10-02 15:18:16,336 [INFO] LLM pipeline initialized successfully.
+2024-10-02 15:18:16,347 [INFO] LLMChain created successfully.
