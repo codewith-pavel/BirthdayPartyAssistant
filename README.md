@@ -78,11 +78,18 @@ A smart assistant built using the LangChain framework to help users plan birthda
 - **Docker**: Used for containerizing the application.
 - **Hugging Face Transformers**: For language processing tasks.
 
-## Installation
-To set up the project, follow these steps:
+### Installation
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/birthday-party-assistant.git
-   cd birthday-party-assistant
+1. **Clone the Repository**
+    ```bash
+    git clone https://github.com/your-username/birthday-party-assistant.git
+    cd birthday-party-assistant
+    ```
+
+2. **Install Dependencies**
+    ```bash
+    python3 -m venv env
+    source env/bin/activate
+    pip install -r requirements.txt
+    ```
   
