@@ -3,7 +3,7 @@
 A smart assistant built using the LangChain framework to help users plan birthday parties. The assistant can recommend venues, caterers, and entertainment options, and it can adjust plans based on user feedback.
 
 ## 📑 Table of Contents
-- [Features](## 🛠️ Features)
+- [## 🛠️ Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
