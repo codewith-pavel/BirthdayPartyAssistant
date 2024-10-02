@@ -5,7 +5,7 @@ A smart assistant built using the LangChain framework to help users plan birthda
 ---
 
 ## 📑 Table of Contents
-### **1** [Features](#f)
+- **1** [Features](#f)
 ### **2** [Technologies Used](#t)
 ### **3** [Installation](#i)
 ### **4** [Usage](#u)
