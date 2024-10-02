@@ -5,12 +5,12 @@ A smart assistant built using the LangChain framework to help users plan birthda
 ---
 
 ## 📑 Table of Contents
-- [Features](#f)
-- [Technologies Used](#t)
-- [Installation](#i)
-- [Usage](#u)
-- [How It Works](#h)
-- [License](#l)
+**1.** [Features](#f)
+**2.** [Technologies Used](#t)
+**3.** [Installation](#i)
+**4.** [Usage](#u)
+**5.** [How It Works](#h)
+**6.** [License](#l)
 
 
 # 🛠️ <a name="f">Features </a>
