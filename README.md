@@ -112,5 +112,7 @@ You can also run the application using Docker:
    ```bash
    docker run -it birthday-party-assistant
    ```
+# How It Works
+The assistant interacts with users to gather information about their party requirements. It then processes this information to provide relevant recommendations and can execute bookings on behalf of the user. The use of LangChain allows for flexible integration with various APIs and services.
 
   
